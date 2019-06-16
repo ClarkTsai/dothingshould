@@ -93,7 +93,7 @@ img::-moz-selection {
   position: absolute;
   border-bottom: 1px solid #e9ecef;
   background-color: white;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial,'Noto Sans TC', sans-serif;
 }
 
 #mainNav .navbar-brand {
@@ -228,7 +228,7 @@ header.masthead .site-heading .subheading {
   line-height: 1.1;
   display: block;
   margin: 10px 0 0;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial,'Noto Sans TC', sans-serif;
 }
 
 @media only screen and (min-width: 768px) {
@@ -252,14 +252,14 @@ header.masthead .post-heading .subheading {
   font-size: 24px;
   font-weight: 600;
   margin: 10px 0 30px;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial,'Noto Sans TC', sans-serif;
 }
 
 header.masthead .post-heading .meta {
   font-size: 20px;
   font-weight: 300;
   font-style: italic;
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Lora', 'Times New Roman','Noto Sans TC', serif;
 }
 
 header.masthead .post-heading .meta a {
@@ -338,13 +338,13 @@ header.masthead .post-heading .meta a {
   background: none;
   -webkit-box-shadow: none !important;
   box-shadow: none !important;
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Lora', 'Times New Roman','Noto Sans TC', serif;
 }
 
 .floating-label-form-group input::-webkit-input-placeholder,
 .floating-label-form-group textarea::-webkit-input-placeholder {
   color: #868e96;
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Lora', 'Times New Roman','Noto Sans TC' ,serif;
 }
 
 .floating-label-form-group label {
@@ -401,7 +401,7 @@ footer .copyright {
   letter-spacing: 1px;
   text-transform: uppercase;
   border-radius: 0;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, 'Noto Sans TC',sans-serif;
 }
 
 .btn-primary {
